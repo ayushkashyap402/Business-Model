@@ -1,0 +1,20 @@
+{
+  "name": "business-model",
+  "version": "1.0.0",
+  "description": "Business Model",
+  "homepage": "https://github.com/ayushkashyap402/Business-Model#readme",
+  "bugs": {
+    "url": "https://github.com/ayushkashyap402/Business-Model/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkashyap402/Business-Model.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Ayush Kashyap",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
